@@ -1,0 +1,40 @@
+﻿@using RestaurantReviewer.ViewModels
+@model FavoriteCartViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - RestaurantReviewer</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <h4>Here are all your favorite restaurants </h4>
+   
+        @foreach (var line in Model.FavoriteCart.FavoriteRestaurants)
+        {
+            <div class="col-xs-4 col-sm-3 col-md-4 col-lg-3 mt-4">
+                <div class="card">
+                    <a asp-controller="Restaurants" asp-action="List"></a>
+                    <a class="card-img-top" asp-action="Restaurant" asp-route-id="@line.Restaurant.RestaurantId">
+                        <img width="250px" height="200px" src="@line.Restaurant.ImageUrl" />
+                    </a>
+                    <div class="card-footer">
+                        <h4>@line.Restaurant.RestaurantName</h4>
+                        <div class="text-info"> reviews</div>
+                        <div class="card-text">
+                            <h4>               
+                                <a class="btn btn-success" asp-action="RemoveFromFavoriteCart" asp-controller="FavoriteCart" asp-route-restaurantId="@line.Restaurant.RestaurantId">
+                                    Remove from list
+                                </a>
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+              
+</body>
+</html>

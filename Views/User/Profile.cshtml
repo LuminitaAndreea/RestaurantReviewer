@@ -1,0 +1,54 @@
+﻿
+@model User
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/userstyle.css">
+
+</head>
+
+<body>
+   
+        <div class="login-form text-left">
+            <form>
+                <h2>My Profile</h2>
+                <div class="form-group">
+                    <p>First Name</p>
+                    <p class="form-control">@Model.FirstName </p>
+                </div>
+                <div class="form-group">
+                    <p>Last Name</p>
+                    <p class="form-control"> @Model.LastName</p>
+                </div>
+                <div class="form-group">
+                    <p>Username</p>
+                    <p class="form-control"> @Model.Username</p>
+                </div>
+                <div class="form-group">
+                    <p>Password</p>
+                    <p class="form-control"> @Model.Password </p>
+                </div>
+                <button type="button" class="btn btn-light">Edit Profile</button>
+
+                <div class="form-group">
+                    <h6>
+                        My Favorite Restaurants
+                        <button type="button" class="btn btn-light">
+                            @await Component.InvokeAsync("FavoriteCartSummary")
+                        </button>
+                    </h6>
+                </div>
+
+                <button type="button" class="btn btn-danger">Log out</button>
+            </form>
+        </div>
+
+</body>
+</html>

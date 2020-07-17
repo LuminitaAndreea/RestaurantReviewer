@@ -1,0 +1,43 @@
+
+                .bg-1 {
+                    background-image:url("https://i.pinimg.com/736x/42/0b/a3/420ba374712153c378a0cc23e8157b68.jpg");
+                    color: #c2c2ac;
+                    padding-top: 180px;
+                  padding-bottom: 200px;
+                }   
+                .bg-1 h5{
+                    color: rgb(149, 165, 184);
+                }
+                .bg-1 p{
+                   color:rgb(153, 152, 152);
+                }
+                .bg-2{
+                    background-color: rgb(80, 157, 202); 
+                    color: #ffffe0b9;
+                }   
+                .col-md-3{
+                      display: inline-block;
+                      margin-left:-4px;
+                    }
+                .col-md-3 img{
+                  width:100%;
+                  height:auto;
+                }
+                body .carousel-indicators li{
+                  background-color:rgb(7, 7, 7);
+                }
+                body .carousel-indicators{
+                  bottom: 0;
+                }
+                body .carousel-control-prev-icon,
+                body .carousel-control-next-icon{
+                  background-color:rgb(0, 0, 0);
+                }
+                body .no-padding{
+                  padding-left: 0;
+                  padding-right: 0;
+                  }
+                .checked {
+                color: orange;
+                }
+                  

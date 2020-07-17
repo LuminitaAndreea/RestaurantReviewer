@@ -1,0 +1,685 @@
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.csprojAssemblyReference.cache
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorAssemblyInfo.cache
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorAssemblyInfo.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.AssemblyInfoInputs.cache
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.AssemblyInfo.cs
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.exe
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.TagHelpers.input.cache
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.TagHelpers.output.cache
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorCoreGenerate.cache
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorTargetAssemblyInfo.cache
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorTargetAssemblyInfo.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantReviewer.StaticWebAssets.Manifest.cache
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantReviewer.StaticWebAssets.xml
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.csproj.CopyComplete
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.deps.json
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.runtimeconfig.json
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.runtimeconfig.dev.json
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.pdb
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.Views.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.Views.pdb
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.Views.pdb
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.dll
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.pdb
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.MvcApplicationPartsAssemblyInfo.cache
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Create.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Delete.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Details.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Edit.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Index.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\List.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Restaurant.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\RestaurantsSummary.cshtml.g.cs
+D:\RestaurantReviewer\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CategoriesSummary.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.exe
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.deps.json
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.runtimeconfig.json
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.runtimeconfig.dev.json
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.pdb
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.Views.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.Views.pdb
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.csprojAssemblyReference.cache
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.MvcApplicationPartsAssemblyInfo.cache
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorAssemblyInfo.cache
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorAssemblyInfo.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.AssemblyInfoInputs.cache
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.AssemblyInfo.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.TagHelpers.input.cache
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.TagHelpers.output.cache
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorCoreGenerate.cache
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Create.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Delete.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Details.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Edit.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Index.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\List.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Restaurant.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CategoriesSummary.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\RestaurantsSummary.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorTargetAssemblyInfo.cache
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorTargetAssemblyInfo.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.Views.pdb
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.csproj.CopyComplete
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantReviewer.StaticWebAssets.Manifest.cache
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantReviewer.StaticWebAssets.xml
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.dll
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.pdb
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\FavoriteCart\Index.cshtml.g.cs
+D:\RestaurantReviewer - Copy\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\FavoriteCartSummary\Default.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.exe
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.deps.json
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.runtimeconfig.json
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.runtimeconfig.dev.json
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.pdb
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.Views.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.Views.pdb
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.csprojAssemblyReference.cache
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.MvcApplicationPartsAssemblyInfo.cache
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorAssemblyInfo.cache
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorAssemblyInfo.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.AssemblyInfoInputs.cache
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.AssemblyInfo.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.TagHelpers.input.cache
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.TagHelpers.output.cache
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorCoreGenerate.cache
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\FavoriteCart\Index.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Create.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Delete.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Details.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Edit.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Index.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\List.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Restaurant.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CategoriesSummary.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\FavoriteCartSummary\Default.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\RestaurantsSummary.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorTargetAssemblyInfo.cache
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorTargetAssemblyInfo.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.Views.pdb
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.csproj.CopyComplete
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantReviewer.StaticWebAssets.Manifest.cache
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantReviewer.StaticWebAssets.xml
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.dll
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.pdb
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\User\Register.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\User\Profile.cshtml.g.cs
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.csproj.CoreCompileInputs.cache
+D:\RestaurantReviewer - the good one\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.genruntimeconfig.cache
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.exe
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.deps.json
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.runtimeconfig.json
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.runtimeconfig.dev.json
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.pdb
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.Views.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\RestaurantReviewer.Views.pdb
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.csprojAssemblyReference.cache
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.csproj.CoreCompileInputs.cache
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.MvcApplicationPartsAssemblyInfo.cache
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorAssemblyInfo.cache
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorAssemblyInfo.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.AssemblyInfoInputs.cache
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.AssemblyInfo.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.TagHelpers.input.cache
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.TagHelpers.output.cache
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorCoreGenerate.cache
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\FavoriteCart\Index.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Create.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Delete.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Details.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Edit.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Index.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\List.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\Restaurant.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CategoriesSummary.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\FavoriteCartSummary\Default.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\RestaurantsSummary.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\User\Profile.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\User\Register.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorTargetAssemblyInfo.cache
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.RazorTargetAssemblyInfo.cs
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.Views.pdb
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.csproj.CopyComplete
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantReviewer.StaticWebAssets.Manifest.cache
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantReviewer.StaticWebAssets.xml
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.dll
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.pdb
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\RestaurantReviewer.genruntimeconfig.cache
+D:\RestaurantReviewer - the good one - Copy (2)\RestaurantReviewer\obj\Debug\netcoreapp3.1\Razor\Views\Restaurants\ReviewList.cshtml.g.cs

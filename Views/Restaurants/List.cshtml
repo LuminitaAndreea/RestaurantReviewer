@@ -1,0 +1,47 @@
+﻿@using RestaurantReviewer.ViewModels
+@model RestaurantList
+
+@{
+    ViewData["Title"] = "List";
+}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/restaurantsstyle.css">
+</head>
+<body>
+
+    <div class="bg-1 ">
+
+        <h1>@Model.CurrentCategory</h1>
+        @*@using (Html.BeginForm())
+            {
+                <p>
+                    Find by name: @Html.TextBox("SearchString")
+                    <input type="submit" value="Search" />
+                </p>
+            }*@
+    </div>
+    @{ foreach (var item in Model.Categories)
+        {
+            @Html.Partial("CategoriesSummary", item)
+        }
+    }
+    <div class="row">
+        @{ foreach (var item in Model.Restaurants)
+            {
+                
+                @Html.Partial("RestaurantsSummary", item)
+            }
+        }
+    </div>
+
+</body>
+</html>
