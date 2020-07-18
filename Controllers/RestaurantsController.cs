@@ -115,12 +115,12 @@ namespace RestaurantReviewer.Controllers
             return View(listRestaurants);
         }
         [HttpPost]
-        public ActionResult SendReview(RestaurantViewModel restaurantViewModel)
+        public ActionResult SendReview(RestaurantViewModel restaurantViewModel, int rank)
         {
             var username = HttpContext.Session.GetString("username");
             restaurantViewModel.Date = DateTime.Now;
             restaurantViewModel.Username = _context.Users.Single(a=>a.Username==username).Username;
-            restaurantViewModel.RestaurantId =1;
+            restaurantViewModel.Rate = rank;
 
             Review review = new Review();
             review.Date = restaurantViewModel.Date;
@@ -128,6 +128,7 @@ namespace RestaurantReviewer.Controllers
             review.ReviewDescription = restaurantViewModel.ReviewDescription;
             review.User = restaurantViewModel.User;
             review.RestaurantId = restaurantViewModel.RestaurantId;
+            review.Rate = restaurantViewModel.Rate;
             _context.Reviews.Add(review);
             _context.SaveChanges();
 

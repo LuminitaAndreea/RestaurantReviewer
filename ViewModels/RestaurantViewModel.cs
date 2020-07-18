@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
 
 namespace RestaurantReviewer.ViewModels
 {
@@ -27,6 +28,10 @@ namespace RestaurantReviewer.ViewModels
         public int RateCount
         {
             get { return Reviews.Count; }
+        }
+        public int RateAverage
+        {
+            get { return (Reviews.Sum(m => m.Rate)); }
         }
     }
 }

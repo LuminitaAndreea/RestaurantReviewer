@@ -20,29 +20,23 @@
 </head>
 <body>
     <h2 class="h1-responsive font-weight-bold my-5">Reviews</h2>
-    
+    <div class="testimonials">
+
+
         @{ foreach (var item in Model)
             {
-            <div class="row text-center">
-                <div class="card xl-6">
-                    <!--Grid column-->
+                <blockquote>
+                    <p>@item.Rate out of 5 </p>
+                    <p>@item.ReviewDescription</p>
+                    <cite>
+                        <span class="user">– @item.Username,</span> @item.Date
+                    </cite>
+                </blockquote>
 
 
-                    <div class="testimonial">
-                        <!--Content-->
-                        <h4 class="font-weight-bold dark-grey-text mt-4">@item.Username</h4>
-                        <h6 class="font-weight-bold blue-text my-3">@item.Date</h6>
-                        <p class="font-weight-normal dark-grey-text">
-                           @item.ReviewDescription
-                        </p>
-                        <!--Review-->
 
-                    </div>
-
-                </div>
-            </div>
-                    }
-                    }
-                
+            }
+        }
+    </div>
 </body>
 </html>

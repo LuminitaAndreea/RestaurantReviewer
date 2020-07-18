@@ -67,7 +67,7 @@
 
     <div class="container container-fluid info">
         <div class="row bootstrap snippets">
-            <div class="col-xl-6">
+            <div class="col-xl-12">
                 <div class="comment-wrapper">
                     <div class="panel panel-info">
                         <div class="panel-heading">
@@ -80,6 +80,7 @@
                                     </a>
                                     
                                 </h4>
+                                
                                 @* stars *@
                             </h3>
 
@@ -94,8 +95,12 @@
                             {
                                 @using (Html.BeginForm("SendReview", "Restaurants", FormMethod.Post))
                                 {
+                                    for(int i = 1; i <= 5; i++)
+                                    {
+                                        <input type="radio" id="rank" name="rank" value="@i" />@i
+                                    }
                                     <div id="rateyo"></div>
-                                    @Html.TextAreaFor(model => model.ReviewDescription, new { cols = 20, rows = 5 })
+                                    @Html.TextAreaFor(model => model.ReviewDescription, new { cols = 350, rows = 5 })
                                     <td>&nbsp;</td>
                                     <input type="submit" value="Send" />
                                     @Html.HiddenFor(model => model.RestaurantId)
